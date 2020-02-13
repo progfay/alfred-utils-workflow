@@ -17,7 +17,7 @@
 ```sh
 cd $WORKFLOW_REPOSITORY
 git init
-git remote add origin https://github.com/SamVerschueren/generator-alfred
+git remote add origin <REPOSITORY_URL>
 git fetch
 git pull origin master
 npm install
